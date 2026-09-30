@@ -11,6 +11,3 @@
 
 **Redesign Windows 11**
 
-***
-
-**Windows 11 Project UI:** <a href="https://dribbble.com/shots/23383152-Redesign-Windows-11">https://dribbble.com/shots/23383152-Redesign-Windows-11</a>
